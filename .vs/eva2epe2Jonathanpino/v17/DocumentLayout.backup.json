@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|c:\\users\\jonathan\\source\\repos\\eva2epe2jonathanpino\\eva2epe2jonathanpino\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|solutionrelative:eva2epe2jonathanpino\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|c:\\users\\jonathan\\source\\repos\\eva2epe2jonathanpino\\eva2epe2jonathanpino\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|solutionrelative:eva2epe2jonathanpino\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|c:\\users\\jonathan\\source\\repos\\eva2epe2jonathanpino\\eva2epe2jonathanpino\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E128CC25-7360-450F-8B5F-74561E9D18FF}|eva2epe2Jonathanpino\\eva2epe2Jonathanpino.vbproj|solutionrelative:eva2epe2jonathanpino\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "eva2epe2Jonathanpino\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.Designer.vb",
+              "RelativeToolTip": "eva2epe2Jonathanpino\\Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-03T19:20:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.vb",
+              "RelativeDocumentMoniker": "eva2epe2Jonathanpino\\Form1.vb",
+              "ToolTip": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.vb",
+              "RelativeToolTip": "eva2epe2Jonathanpino\\Form1.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-03T19:01:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.vb",
+              "RelativeDocumentMoniker": "eva2epe2Jonathanpino\\Form1.vb",
+              "ToolTip": "C:\\Users\\jonathan\\source\\repos\\eva2epe2Jonathanpino\\eva2epe2Jonathanpino\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "eva2epe2Jonathanpino\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-03T18:57:58.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
